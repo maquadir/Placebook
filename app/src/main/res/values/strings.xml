@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Placebook</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key">AIzaSyAf4g9wy3KFc2uoHOeQu5JRXFqURDzx3SM</string>
+</resources>
